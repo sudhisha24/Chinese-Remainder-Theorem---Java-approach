@@ -1,0 +1,30 @@
+Enter total number of equation : 
+
+2
+
+Enter value of a1 : 
+3
+Enter value of m1 : 
+15
+
+Enter value of a2 : 
+2
+Enter value of m2 : 
+7
+
+The value of M is 105
+
+The value of Mi[1] is 7
+The value of Mi[2] is 15
+
+The value of Yi[1] is 13
+The value of Yi[2] is 1
+
+The value of x is 93
+
+The equations are 
+93 = 3 mod 15
+93 = 2 mod 7
+
+
+** Process exited - Return Code: 0 **
